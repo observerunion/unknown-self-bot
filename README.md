@@ -18,5 +18,5 @@ To Setup You Need To Edit The config.json File.
 You Need To Insert Your: Token Password And The Prefix You Wish To Use.
 # Credits
 Made By The Exeter Team.
-![Our Discord Server](https://discord.gg/accounts)
-![Our Website Link](http://accountsnake.tk)
+[Our Discord Server](https://discord.gg/accounts).
+[Our Website Link](http://accountsnake.tk). 
