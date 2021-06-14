@@ -1,4 +1,4 @@
-![UnknownSelfBot](https://github.com/[observerunion]/[unknown-self-bot]/blob/[main]/Screenshot_20210614-225827.png?raw=true)
+![Screenshot](Screenshot_20210614-225827.png)
 # Unknown-Self-Bot
 This Project Is Made By The Exeter Team.
 This Self Bot Helps You Spam Generate Nitro Codes
