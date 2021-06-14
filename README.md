@@ -1,3 +1,4 @@
+![UnknownSelfBot](https://github.com/[observerunion]/[unknown-self-bot]/blob/[main]/Screenshot_20210614-225827.png?raw=true)
 # Unknown-Self-Bot
 This Project Is Made By The Exeter Team.
 This Self Bot Helps You Spam Generate Nitro Codes
@@ -17,5 +18,5 @@ To Setup You Need To Edit The config.json File.
 You Need To Insert Your: Token Password And The Prefix You Wish To Use.
 # Credits
 Made By The Exeter Team.
-Join Our Server On Discord: https://discord.gg/accounts
-Check Our Website Out: http://accountsnake.tk
+![Our Discord Server](https://discord.gg/accounts)
+![Our Website Link](http://accountsnake.tk)
