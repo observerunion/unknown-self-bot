@@ -1,0 +1,13 @@
+asyncio
+datetime
+functools
+io 
+json
+os
+bs4
+aiohttp
+discord
+colorama
+numpy
+requests
+gtts

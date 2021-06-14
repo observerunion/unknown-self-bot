@@ -1,0 +1,11 @@
+{
+    "token": "insert", 
+    "password": "insert",
+    "prefix": "insert",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/wins_fangless",
+    "tts_language": "en"
+}
